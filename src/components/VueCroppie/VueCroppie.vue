@@ -6,6 +6,7 @@
 </template>
 
 <script>
+    const $ = require('jquery');
     import 'croppie/croppie.min'
     import 'croppie/croppie.css'
 
