@@ -1,0 +1,44 @@
+{
+  "name": "@affandes/vue-croppie",
+  "version": "1.0.0",
+  "description": "Vue wrapper for Croppie",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affandes/vue-croppie.git"
+  },
+  "keywords": [
+    "vue-croppie",
+    "vue",
+    "croppie"
+  ],
+  "files": [
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": {
+    "name": "Muhammad Affandes",
+    "email": "affandes@gmail.com",
+    "web": "https://twitter.com/affandes"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/affandes/vue-croppie/issues"
+  },
+  "homepage": "https://github.com/affandes/vue-croppie#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "croppie": "^2.6.4",
+    "vue": "^2.6.10"
+  }
+}
